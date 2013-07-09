@@ -1,0 +1,18 @@
+{
+  "name": "node-bot",
+  "version": "0.0.1",
+  "description": "IRC bots are fun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stackptr/node-bot.git"
+  },
+  "author": "stackptr",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/stackptr/node-bot.git/issues"
+  },
+  "devDependencies": {
+    "irc": "~0.3.6",
+    "colors": "~0.6.0-1"
+  }
+}
